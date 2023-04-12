@@ -30,7 +30,7 @@ bitstamp = pd.read_csv("Resources/bitstamp.csv",
 
 This is the CSV needed.
 
-![The much needed pathways to have before finishing the app.py.](screenshots/csv.png)
+![The much needed pathways to have before finishing the app.py.](Screenshots/csv.png)
 
 ---
 
