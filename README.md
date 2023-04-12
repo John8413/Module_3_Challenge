@@ -36,12 +36,12 @@ This is the CSV needed.
 
 ## Usage
 
-![data](/screenshots/data.png)
-![plot](/screenshots/plot.png)
-![plot2](/screenshots/plot2.png)
-![box](/screenshots/box.png)
-![profits](/screenshots/profits.png)
-![sum](/screenshots/sum.png)
+![data](Screenshots/data.png)
+![plot](Screenshots/plot.png)
+![plot2](Screenshots/plot2.png)
+![box](Screenshots/box.png)
+![profits](Screenshots/profits.png)
+![sum](Screenshots/sum.png)
 
 
 ---
